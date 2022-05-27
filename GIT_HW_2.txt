@@ -21,7 +21,6 @@ GitHub. HW_2
 3. В ветке Bag Reports сделать текстовый документ со структурой баг репорта
 • git checkout BugReports
 • vim BugReport_structure.txt
-ссылка на репозиторий с файлом https://github.com/9110242482/GIT.git
 
 4. Запушить структуgiру багрепорта на внешний репозиторий
 • git add BugReport_structure.txt
@@ -37,7 +36,6 @@ GitHub. HW_2
 7. В ветке CheckLists набросать структуру чек листа.
 • git checkout CheckLists
 • vim CheckList_structure.txt
-ссылка на репозиторий с файлом https://github.com/9110242482/GIT.git
 
 8. Запушить структуру на внешний репозиторий
 • git add CheckList_structure.txt
